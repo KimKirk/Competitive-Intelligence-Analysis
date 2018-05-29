@@ -5,7 +5,7 @@ competitive intelligence analysis for technology innovations lab
 - The report is in workbook format at the request of the stakeholder who received the information.
 
 ## Disclaimer:
-- All information in the report was obtained from publicy avaiable sources.
+- All information in the report was obtained from publicy available sources.
 
 ## Processing Instructions:
 - Visit the link to view the report: https://docs.google.com/spreadsheets/d/1nI7eV0_vF75a9trATO7CWTgGTviozk6UNGQefaFFJ9k/edit?usp=sharing
