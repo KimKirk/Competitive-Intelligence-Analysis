@@ -1,7 +1,8 @@
 # Tech-Innovations-Lab-CI-Analysis
 competitive intelligence analysis for technology innovations lab
+- Business Intelligence
 
-- Competitive intelligence analysis was conducted on the top 25 Community Foundations by asset size. This report was used for decision making on lab design, competitor determination, customer determination, funding, and market entry.
+- Competitive intelligence analysis was conducted on the top 25 Community Foundations by asset size. This report was used in technology innovations lab for decision making on lab design, competitor determination, customer determination, funding, and market entry.
 - The report is in workbook format at the request of the stakeholder who received the information.
 
 ## Disclaimer:
