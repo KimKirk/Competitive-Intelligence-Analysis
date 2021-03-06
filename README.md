@@ -9,4 +9,4 @@ competitive intelligence analysis for technology innovations lab
 - All information in the report was obtained from publicly available sources.
 
 ## Processing Instructions:
-- [Report Here](https://docs.google.com/spreadsheets/d/1nI7eV0_vF75a9trATO7CWTgGTviozk6UNGQefaFFJ9k/edit?usp=sharing)
+- [Report Here](https://drive.google.com/file/d/1bh_GpU4B50hYJ-RyRCqoyfymQu2gBpdu/view?usp=sharing)
